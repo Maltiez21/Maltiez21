@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Maltiez21
+- 👀 I’m interested in Ethereum
+- 🌱 I’m currently learning Ethereum's apps
+- 💞️ I’m looking to collaborate on Ethereum potentonal development 
+- 📫 How to reach me maltiez@icloud.com
